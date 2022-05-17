@@ -106,7 +106,7 @@ int main()
     printf("Where do you want to insert the node : " );
     int nodeIndex=0;
     scanf("%d", &nodeIndex);
-    insert_middle(nodeIndex);
+    // insert_middle(nodeIndex);
 
     display();
 }
